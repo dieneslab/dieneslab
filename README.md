@@ -55,13 +55,11 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
       <img alt="LinkedIn" height="28" src="./icons/linkedin.svg" style="display:block; border:0;"/>
     </span>
   </a>
-  &nbsp;&nbsp;
   <a href="https://x.com/dienes" target="_blank" style="text-decoration:none;">
     <span style="display:inline-block; line-height:0;">
       <img alt="Twitter" height="28" src="./icons/twitter.svg" style="display:block; border:0;"/>
     </span>
   </a>
-  &nbsp;&nbsp;
   <a href="https://instagram.com/dienes_stein" target="_blank" style="text-decoration:none;">
     <span style="display:inline-block; line-height:0;">
       <img alt="Instagram" height="28" src="./icons/instagram.svg" style="display:block; border:0;"/>
