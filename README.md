@@ -50,15 +50,15 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/dienes" target="_blank">
+  <a href="https://linkedin.com/in/dienes" target="_blank" style="text-decoration:none;">
     <img alt="LinkedIn" height="28" src="./icons/linkedin.svg" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/dienes" target="_blank">
+  <a href="https://x.com/dienes" target="_blank" style="text-decoration:none;">
     <img alt="Twitter" height="28" src="./icons/twitter.svg" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/dienes_stein" target="_blank">
+  <a href="https://instagram.com/dienes_stein" target="_blank" style="text-decoration:none;">
     <img alt="Instagram" height="28" src="./icons/instagram.svg" />
   </a>
 </p>
