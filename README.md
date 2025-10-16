@@ -6,30 +6,53 @@
 
 <br />
 
-I'm a passionate QA Automation Engineer and developer from Brazil 🇧🇷
-
-**About me**
-
-- 💼 Automation Engineer  
-- 📈 Built Cypress + Cucumber projects, test suites, and more  
-- ❤️ I love testing, automating repetitive tasks, and experimenting with new tools  
-- 💬 Ask me about QA, Cypress, Cucumber, JavaScript, or automation [here](https://github.com/dieneslab/issues)
-
-<code><img height="20" alt="javascript" src="./icons/javascript.svg"></code>
-<code><img height="20" alt="cypress" src="./icons/cypress.svg"></code>
-<code><img height="20" alt="cucumber" src="./icons/cucumber.svg"></code>
-<code><img height="20" alt="nodejs" src="./icons/node.svg"></code>
-
-
-<a href="https://github.com/dieneslab"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieneslab&layout=compact&theme=buefy&hide_border=true" /></a>
-
-
-<p align="right">
-Follow me: 
+<p align="center">
+  🚀 <b>Passionate about software quality, automation frameworks, and all things testing!</b>
 </p>
-<a href="https://instagram.com/dienes_stein">
-  <img align="right" alt="Dienes Stein | Instagram" width="20px" src="./icons/instagram.svg" />
-</a>
-<a href="https://linkedin.com/in/dienes">
-  <img align="right" alt="Dienes Stein | LinkedIn" width="20px" src="./icons/linkedin.svg" />
-</a>
+
+---
+
+### 👨‍💻 About Me
+
+- 💼 QA Automation Engineer focused on **software quality** and **test automation frameworks**
+- 🧩 I build and maintain test suites using **Cypress**, **Robot Framework**, **Postman**, and **Cucumber**
+- 🔍 I care about **clean, reliable, and maintainable tests**
+- ⚙️ I enjoy automating repetitive tasks to make testing smarter and faster
+- 💬 Wanna chat? Drop your thoughts [here](https://github.com/dieneslab/issues)
+
+---
+
+### 🧠 Tech Stack
+
+<code><img height="24" alt="javascript" src="./icons/javascript.svg"></code>
+<code><img height="24" alt="cypress" src="./icons/cypress.svg"></code>
+<code><img height="24" alt="robotframework" src="./icons/robotframework.svg"></code>
+<code><img height="24" alt="postman" src="./icons/postman.svg"></code>
+<code><img height="24" alt="cucumber" src="./icons/cucumber.svg"></code>
+<code><img height="24" alt="nodejs" src="./icons/node.svg"></code>
+
+---
+
+<p align="center">
+  <a href="https://github.com/dieneslab">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieneslab&layout=compact&theme=buefy&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Follow me</b> 💬
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/dienes" target="_blank">
+    <img alt="LinkedIn" width="24px" src="./icons/linkedin.svg" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/dienes" target="_blank">
+    <img alt="Twitter" width="24px" src="./icons/twitter.svg" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/dienes_stein" target="_blank">
+    <img alt="Instagram" width="24px" src="./icons/instagram.svg" />
+  </a>
+</p>
