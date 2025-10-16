@@ -15,7 +15,7 @@ I enjoy transforming complex testing processes into clean, reliable, and maintai
 🧩 I love:
 Automating repetitive tasks, improving CI/CD pipelines, and designing smarter tests.
 
-💬 Open for ideas and collaborations → [share your thoughts](https://github.com/dieneslab/issues)
+💬 Open for ideas and collaborations → [share your thoughts](https://github.com/dieneslab/dieneslab/issues)
 
 ---
 
@@ -54,8 +54,8 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
   <img align="left" alt="Dienes Stein | LinkedIn" width="30px" src="./icons/linkedin.svg" />
 </a>
 <a href="https://x.com/dienes">
-  <img align="left" alt="Dienes Stein | X.com" width="30px" src="./icons/twitter.svg" />
+  <img align="left" alt="@dienes | X.com" width="30px" src="./icons/twitter.svg" />
 </a>
 <a href="https://instagram.com/dienes_stein">
-  <img align="left" alt="Dienes Stein | Instagram" width="30px" src="./icons/instagram.svg" />
+  <img align="left" alt="@dienes_stein | Instagram" width="30px" src="./icons/instagram.svg" />
 </a>
