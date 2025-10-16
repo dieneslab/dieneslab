@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dieneslab.github.io">
-    <img width="80%" alt="Hello, I'm Dienes. I do automation and QA!" src="./assets/gh-readme-header.png" />
+    <img width="80%" alt="Hello, I'm Dienes. I do automation and QA!" src="./images/welcome.png" />
   </a>
 </p>
 
@@ -24,9 +24,7 @@ I'm a passionate QA Automation Engineer and developer from Brazil 🇧🇷
 | <a href="https://github.com/dieneslab"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dieneslab&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dienes's GitHub stats" /></a> | <a href="https://github.com/dieneslab"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieneslab&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<br />
-<br />
 
 <a href="https://linkedin.com/in/dienes">
-  <img align="right" alt="Dienes Stein | LinkedIn" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
+  <img align="right" alt="Dienes Stein | LinkedIn" width="20px" src="./icons/linkedin.svg" />
 </a>
