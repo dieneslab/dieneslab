@@ -23,9 +23,9 @@ I'm a passionate QA Automation Engineer and developer from Brazil 🇧🇷
 
 <a href="https://github.com/dieneslab"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dieneslab&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dienes's GitHub stats" /></a> <a href="https://github.com/dieneslab"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieneslab&layout=compact&theme=buefy&hide_border=true" /></a>
 
-<div style="display: flex; justify-content: flex-end; align-items: center;">
-  <span style="margin-right: 8px;">Follow me:</span>
-  <a href="https://linkedin.com/in/dienes" target="_blank">
-    <img alt="Dienes Stein | LinkedIn" width="20px" src="./icons/linkedin.svg" />
-  </a>
-</div>
+<p align="right">
+Follow me: 
+</p>
+<a href="https://linkedin.com/in/dienes">
+  <img align="right" alt="Dienes Stein | LinkedIn" width="20px" src="./icons/linkedin.svg" />
+</a>
