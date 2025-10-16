@@ -22,12 +22,12 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
 ### 🧠 Tech Stack
 
 <p align="left">
-  <img src="./icons/javascript.svg" alt="JavaScript" height="28" />
-  <img src="./icons/node.svg" alt="Node.js" height="28" />
-  <img src="./icons/cypress.svg" alt="Cypress" height="28" />
-  <img src="./icons/robotframework.svg" alt="Robot Framework" height="28" />
-  <img src="./icons/postman.svg" alt="Postman" height="28" />
-  <img src="./icons/cucumber.svg" alt="Cucumber" height="28" />
+  <img src="./icons/javascript.svg" alt="JavaScript" width="30px" />
+  <img src="./icons/node.svg" alt="Node.js" width="30px" />
+  <img src="./icons/cypress.svg" alt="Cypress" width="30px" />
+  <img src="./icons/robotframework.svg" alt="Robot Framework" width="30px" />
+  <img src="./icons/postman.svg" alt="Postman" width="30px" />
+  <img src="./icons/cucumber.svg" alt="Cucumber" width="30px" />
 </p>
 
 <br />
