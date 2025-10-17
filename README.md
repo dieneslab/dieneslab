@@ -63,6 +63,6 @@
     <img align="left" alt="@dienes_stein | YouTube" width="30px" src="./icons/youtube.svg" />
   </a>
 
-  <div style="clear: both;"></div>
-
-  This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+  <div>
+    This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+  </div>  
