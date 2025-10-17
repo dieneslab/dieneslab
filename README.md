@@ -64,6 +64,7 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
 </a>
 
 
-<br clear="left" />
+<br /><br clear="left" />
+
 
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
