@@ -62,3 +62,8 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
 <a href="https://www.youtube.com/dienes_stein">
   <img align="left" alt="@dienes_stein | YouTube" width="30px" src="./icons/youtube.svg" />
 </a>
+
+
+### License
+
+This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
