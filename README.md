@@ -23,9 +23,11 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
 
 <p align="left">
   <img src="./icons/javascript.svg" alt="JavaScript" width="30px" />
+  <img src="./icons/typescript.svg" alt="TypeScript" width="30px" />
   <img src="./icons/node.svg" alt="Node.js" width="30px" />
   <img src="./icons/cypress.svg" alt="Cypress" width="30px" />
   <img src="./icons/robotframework.svg" alt="Robot Framework" width="30px" />
+  <img src="./icons/playwright.svg" alt="Playwright" width="30px" />
   <img src="./icons/postman.svg" alt="Postman" width="30px" />
   <img src="./icons/insomnia.svg" alt="Insomnia" width="30px" />
   <img src="./icons/cucumber.svg" alt="Cucumber" width="30px" />
