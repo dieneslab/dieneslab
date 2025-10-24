@@ -22,16 +22,16 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
 ### 🧠 Tech Stack
 
 <p align="left">
-  <img src="./icons/javascript.svg" alt="JavaScript" width="30px" />
-  <img src="./icons/typescript.svg" alt="TypeScript" width="30px" />
-  <img src="./icons/node.svg" alt="Node.js" width="30px" />
-  <img src="./icons/cypress.svg" alt="Cypress" width="30px" />
-  <img src="./icons/robotframework.svg" alt="Robot Framework" width="30px" />
-  <img src="./icons/playwright.svg" alt="Playwright" width="30px" />
-  <img src="./icons/postman.svg" alt="Postman" width="30px" />
-  <img src="./icons/insomnia.svg" alt="Insomnia" width="30px" />
-  <img src="./icons/cucumber.svg" alt="Cucumber" width="30px" />
-  <img src="./icons/vscode.svg" alt="VS Code" width="30px" />
+  <img src="./icons/javascript.png" alt="JavaScript" width="30px" />
+  <img src="./icons/typescript.png" alt="TypeScript" width="30px" />
+  <img src="./icons/node.png" alt="Node.js" width="30px" />
+  <img src="./icons/cypress.png" alt="Cypress" width="30px" />
+  <img src="./icons/robotframework.png" alt="Robot Framework" width="30px" />
+  <img src="./icons/playwright.png" alt="Playwright" width="30px" />
+  <img src="./icons/postman.png" alt="Postman" width="30px" />
+  <img src="./icons/insomnia.png" alt="Insomnia" width="30px" />
+  <img src="./icons/cucumber.png" alt="Cucumber" width="30px" />
+  <img src="./icons/vscode.png" alt="VS Code" width="30px" />
 </p>
 
 <br />
@@ -55,16 +55,16 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
 
 
 <a href="https://linkedin.com/in/dienes">
-  <img align="left" alt="Dienes Stein | LinkedIn" width="30px" src="./icons/linkedin.svg" />
+  <img align="left" alt="Dienes Stein | LinkedIn" width="30px" src="./icons/linkedin.png" />
 </a>
 <a href="https://x.com/dienes">
-  <img align="left" alt="@dienes | X.com" width="30px" src="./icons/twitter.svg" />
+  <img align="left" alt="@dienes | X.com" width="30px" src="./icons/twitter.png" />
 </a>
 <a href="https://instagram.com/dienes_stein">
-  <img align="left" alt="@dienes_stein | Instagram" width="30px" src="./icons/instagram.svg" />
+  <img align="left" alt="@dienes_stein | Instagram" width="30px" src="./icons/instagram.png" />
 </a>
 <a href="https://www.youtube.com/dienes_stein">
-  <img align="left" alt="@dienes_stein | YouTube" width="30px" src="./icons/youtube.svg" />
+  <img align="left" alt="@dienes_stein | YouTube" width="30px" src="./icons/youtube.png" />
 </a>
 
 
