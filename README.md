@@ -25,9 +25,9 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="JavaScript" width="30px" />
   <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" width="30px" />
   <img src="https://www.svgrepo.com/show/378837/node.svg" alt="Node.js" width="30px" />
-  <img src="./icons/cypress.svg" alt="Cypress" width="30px" />
+  <img src="https://hexmos.com/freedevtools/svg_icons/cypressio/cypressio-original.svg" alt="Cypress" width="30px" />
   <img src="https://www.svgrepo.com/show/374049/robotframework.svg" alt="Robot Framework" width="30px" />
-  <img src="./icons/playwright.svg" alt="Playwright" width="30px" />
+  <img src="https://hexmos.com/freedevtools/svg_icons/playwright/playwright-original.svg" alt="Playwright" width="30px" />
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="30px" />
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="Insomnia" width="30px" />
   <img src="https://www.svgrepo.com/show/353625/cucumber.svg" alt="Cucumber" width="30px" />
