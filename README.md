@@ -1,5 +1,5 @@
-<a href="https://github.com/dieneslab">
-  <img width="100%" alt="Hello World, I'm Dienes!" src="https://raw.githubusercontent.com/dieneslab/dieneslab/main/images/welcome.png" />
+<a href="https://dieneslab.github.io">
+  <img width="100%" alt="Hello World, I'm Dienes!" src="./images/welcome.png" />
 </a>
 
 <br />
@@ -22,16 +22,15 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
 ### 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/dieneslab/dieneslab/main/icons/javascript.svg" alt="JavaScript" width="30px" />
-  <img src="https://raw.githubusercontent.com/dieneslab/dieneslab/main/icons/typescript.svg" alt="TypeScript" width="30px" />
-  <img src="https://raw.githubusercontent.com/dieneslab/dieneslab/main/icons/node.svg" alt="Node.js" width="30px" />
-  <img src="https://raw.githubusercontent.com/dieneslab/dieneslab/main/icons/cypress.svg" alt="Cypress" width="30px" />
-  <img src="https://raw.githubusercontent.com/dieneslab/dieneslab/main/icons/robotframework.svg" alt="Robot Framework" width="30px" />
-  <img src="https://raw.githubusercontent.com/dieneslab/dieneslab/main/icons/playwright.svg" alt="Playwright" width="30px" />
-  <img src="https://raw.githubusercontent.com/dieneslab/dieneslab/main/icons/postman.svg" alt="Postman" width="30px" />
-  <img src="https://raw.githubusercontent.com/dieneslab/dieneslab/main/icons/insomnia.svg" alt="Insomnia" width="30px" />
-  <img src="https://raw.githubusercontent.com/dieneslab/dieneslab/main/icons/cucumber.svg" alt="Cucumber" width="30px" />
-  <img src="https://raw.githubusercontent.com/dieneslab/dieneslab/main/icons/vscode.svg" alt="VS Code" width="30px" />
+  <img src="./icons/javascript.svg" alt="JavaScript" width="30px" />
+  <img src="./icons/typescript.svg" alt="TypeScript" width="30px" />
+  <img src="./icons/node.svg" alt="Node.js" width="30px" />
+  <img src="./icons/cypress.svg" alt="Cypress" width="30px" />
+  <img src="./icons/robotframework.svg" alt="Robot Framework" width="30px" />
+  <img src="./icons/playwright.svg" alt="Playwright" width="30px" />
+  <img src="./icons/postman.svg" alt="Postman" width="30px" />
+  <img src="./icons/insomnia.svg" alt="Insomnia" width="30px" />
+  <img src="./icons/cucumber.svg" alt="Cucumber" width="30px" />
 </p>
 
 <br />
@@ -51,43 +50,20 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
 
 <br />
 
----
-
-### ✨ My Favorite VS Code Extensions
-
-To make development and test automation even smoother, here are my favorite Visual Studio Code extensions that I personally use in this project:
-
-| Extension | Description | Publisher |
-|------------|--------------|------------|
-| **Cucumber (Gherkin) Full Support** | Full language support, formatting, and autocomplete for Cucumber (Gherkin) syntax | Alexander Krechik |
-| **Dracula Theme Official** | Beautiful dark theme for VS Code and other editors | Dracula Theme |
-| **GitHub Actions** | Manage and run GitHub Actions workflows directly from VS Code | GitHub |
-| **GitHub Copilot** | Your AI pair programmer | GitHub |
-| **GitHub Copilot Chat** | Interactive AI chat assistant powered by GitHub Copilot | GitHub |
-| **JavaScript and TypeScript Nightly** | Enables TypeScript@next to power VS Code's built-in JavaScript and TypeScript support | Microsoft |
-| **Material Icon Theme** | Material Design icons for Visual Studio Code | Philipp Kief |
-| **One Dark Pro** | Atom's iconic dark theme for Visual Studio Code | binaryify |
-| **Playwright Test for VSCode** | Integrated Playwright test runner and debugging support | Microsoft |
-| **Prettier – Code Formatter** | Opinionated code formatter for clean and consistent style | Prettier |
-| **Rainbow CSV** | Syntax highlighting and SQL-like queries for CSV and TSV files | mechatroner |
-| **Robot Framework Language Server** | Full language support for Robot Framework | Robocorp |
-
----
-
 ### 🌐 Let's Connect
 
 
 <a href="https://linkedin.com/in/dienes">
-<img align="left" alt="Dienes Stein | LinkedIn" width="30px" src="https://raw.githubusercontent.com/dieneslab/dieneslab/main/icons/linkedin.svg" />
+  <img align="left" alt="Dienes Stein | LinkedIn" width="30px" src="./icons/linkedin.svg" />
 </a>
 <a href="https://x.com/dienes">
-  <img align="left" alt="@dienes | X.com" width="30px" src="https://raw.githubusercontent.com/dieneslab/dieneslab/main/icons/twitter.svg" />
+  <img align="left" alt="@dienes | X.com" width="30px" src="./icons/twitter.svg" />
 </a>
 <a href="https://instagram.com/dienes_stein">
-  <img align="left" alt="@dienes_stein | Instagram" width="30px" src="https://raw.githubusercontent.com/dieneslab/dieneslab/main/icons/instagram.svg" />
+  <img align="left" alt="@dienes_stein | Instagram" width="30px" src="./icons/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/dienes_stein">
-  <img align="left" alt="@dienes_stein | YouTube" width="30px" src="https://raw.githubusercontent.com/dieneslab/dieneslab/main/icons/youtube.svg" />
+  <img align="left" alt="@dienes_stein | YouTube" width="30px" src="./icons/youtube.svg" />
 </a>
 
 
