@@ -22,16 +22,16 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
 ### 🧠 Tech Stack
 
 <p align="left">
-  <img src="./icons/javascript.png" alt="JavaScript" width="30px" />
-  <img src="./icons/typescript.png" alt="TypeScript" width="30px" />
-  <img src="./icons/node.png" alt="Node.js" width="30px" />
-  <img src="./icons/cypress.png" alt="Cypress" width="30px" />
-  <img src="./icons/robotframework.png" alt="Robot Framework" width="30px" />
-  <img src="./icons/playwright.png" alt="Playwright" width="30px" />
-  <img src="./icons/postman.png" alt="Postman" width="30px" />
-  <img src="./icons/insomnia.png" alt="Insomnia" width="30px" />
-  <img src="./icons/cucumber.png" alt="Cucumber" width="30px" />
-  <img src="./icons/vscode.png" alt="VS Code" width="30px" />
+  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="JavaScript" width="30px" />
+  <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" width="30px" />
+  <img src="https://www.svgrepo.com/show/378837/node.svg" alt="Node.js" width="30px" />
+  <img src="./icons/cypress.svg" alt="Cypress" width="30px" />
+  <img src="https://www.svgrepo.com/show/374049/robotframework.svg" alt="Robot Framework" width="30px" />
+  <img src="./icons/playwright.svg" alt="Playwright" width="30px" />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="30px" />
+  <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="Insomnia" width="30px" />
+  <img src="https://www.svgrepo.com/show/353625/cucumber.svg" alt="Cucumber" width="30px" />
+  <img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="VS Code" width="30px" />
 </p>
 
 <br />
@@ -55,16 +55,16 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
 
 
 <a href="https://linkedin.com/in/dienes">
-  <img align="left" alt="Dienes Stein | LinkedIn" width="30px" src="./icons/linkedin.png" />
+  <img align="left" alt="Dienes Stein | LinkedIn" width="30px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
 </a>
 <a href="https://x.com/dienes">
-  <img align="left" alt="@dienes | X.com" width="30px" src="./icons/twitter.png" />
+  <img align="left" alt="@dienes | X.com" width="30px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
 </a>
 <a href="https://instagram.com/dienes_stein">
-  <img align="left" alt="@dienes_stein | Instagram" width="30px" src="./icons/instagram.png" />
+  <img align="left" alt="@dienes_stein | Instagram" width="30px" src="https://www.svgrepo.com/show/452229/instagram-1.svg" />
 </a>
 <a href="https://www.youtube.com/dienes_stein">
-  <img align="left" alt="@dienes_stein | YouTube" width="30px" src="./icons/youtube.png" />
+  <img align="left" alt="@dienes_stein | YouTube" width="30px" src="https://www.svgrepo.com/show/448261/youtube.svg" />
 </a>
 
 
