@@ -31,6 +31,7 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
   <img src="./icons/postman.svg" alt="Postman" width="30px" />
   <img src="./icons/insomnia.svg" alt="Insomnia" width="30px" />
   <img src="./icons/cucumber.svg" alt="Cucumber" width="30px" />
+  <img src="./icons/vscode.svg" alt="VS Code" width="30px" />
 </p>
 
 <br />
