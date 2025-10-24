@@ -25,7 +25,7 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
   <img src="https://dieneslab.github.io/icons/javascript.svg" alt="JavaScript" width="30px" />
   <img src="https://dieneslab.github.io/icons/typescript.svg" alt="TypeScript" width="30px" />
   <img src="https://dieneslab.github.io/icons/node.svg" alt="Node.js" width="30px" />
-  <img src="https://dieneslab.github.io/icons/cypressio.svg" alt="Cypress" width="30px" />
+  <img src="https://dieneslab.github.io/icons/cypress.svg" alt="Cypress" width="30px" />
   <img src="https://dieneslab.github.io/icons/robotframework.svg" alt="Robot Framework" width="30px" />
   <img src="https://dieneslab.github.io/icons/playwright.svg" alt="Playwright" width="30px" />
   <img src="https://dieneslab.github.io/icons/postman.svg" alt="Postman" width="30px" />
