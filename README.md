@@ -39,13 +39,12 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
 <div align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dieneslab&theme=tokyonight"
-    height="180"
+    width="48%"
     alt="GitHub Stats"
   />
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dieneslab&theme=tokyonight"
-    height="180"
+    width="48%"
     alt="Top Languages"
   />
 </div>
