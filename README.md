@@ -38,15 +38,15 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=dieneslab&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="GitHub Streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dieneslab&theme=tokyonight"
+    height="180"
+    alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dieneslab&theme=tokyo-night&hide_border=true"
-    height="160"
-    alt="GitHub Activity Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dieneslab&theme=tokyonight"
+    height="180"
+    alt="Top Languages"
   />
 </div>
 
