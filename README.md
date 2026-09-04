@@ -10,7 +10,7 @@ QA Automation Engineer passionate about **software quality**, **test frameworks*
 I enjoy transforming complex testing processes into clean, reliable, and maintainable automation.
 
 💼 I work with:
-**Cypress**, **Robot Framework**, **Postman**, **Cucumber**, and **Node.js**
+**Cypress**, **Robot Framework**, **k6**, **Postman**, **Cucumber**, and **Node.js**
 
 🧩 I love:
 Automating repetitive tasks, improving CI/CD pipelines, and designing smarter tests.
@@ -38,14 +38,15 @@ Automating repetitive tasks, improving CI/CD pipelines, and designing smarter te
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieneslab&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=dieneslab&theme=tokyonight&hide_border=true"
     height="160"
-    alt="Top Languages"
+    alt="GitHub Streak"
   />
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dieneslab&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dieneslab&theme=tokyo-night&hide_border=true"
     height="160"
-    alt="GitHub Stats"
+    alt="GitHub Activity Graph"
   />
 </div>
 
